@@ -2,7 +2,7 @@ import os
 import json
 import xml.etree.ElementTree as ET
 from tkinter import messagebox, filedialog
-from gera_xml.utils import valor_padrao, montar_xml
+from utils import valor_padrao, montar_xml
 
 TAGS_XML = []
 ESTRUTURA = {}
