@@ -1,4 +1,4 @@
-# Gerador de XML DDA
+# Gerador de XML
 
 Ferramenta com interface gráfica para gerar arquivos XML baseados em layouts XSD.
 
