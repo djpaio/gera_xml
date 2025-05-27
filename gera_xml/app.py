@@ -3,7 +3,7 @@ from tkinter import ttk, scrolledtext, messagebox, filedialog
 import re
 import json
 import os
-import gera_xml.layout_parser as parser
+import layout_parser as parser
 
 def gerar_saida():
     campo_resultado.delete(1.0, tk.END)
